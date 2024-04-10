@@ -1,15 +1,11 @@
 
 FROM python:3.9
-
+COPY ca-certificates.crt /etc/ssl/certs/ca-certificates.crt
 ADD ./back-end/requirements.txt /tmp/requirements.txt
-
-
-
 
 RUN pip install --no-cache-dir --upgrade -r /tmp/requirements.txt
 
 COPY ./back-end /back-end
-
 
 ENV PYTHONPATH "${PYTHONPATH}:/back-end/"
 

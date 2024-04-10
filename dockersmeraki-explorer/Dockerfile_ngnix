@@ -1,6 +1,7 @@
 
 # Stage 0, "build-stage", based on Node.js, to build and compile the frontend
-FROM node:lts-alpine3.10 as build-stage
+FROM node:lts-alpine3.11 as build-stage
+COPY ca-certificates.crt /etc/ssl/certs/ca-certificates.crt
 
 # RUN apk add --no-cache git
 # RUN git --version

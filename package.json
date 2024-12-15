@@ -25,7 +25,7 @@
     "@kevincobain2000/json-to-html-table": "^1.0.1",
     "@material-table/core": "^0.2.27",
     "@material-ui/core": "^4.12.3",
-    "@mui/icons-material": "^5.5.1",
+    "@mui/icons-material": "^5.16.7",
     "@mui/lab": "^5.0.0-alpha.73",
     "@mui/material": "^5.5.1",
     "@rjsf/bootstrap-4": "^4.1.1",

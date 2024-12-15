@@ -39,7 +39,7 @@
     "export-from-json": "^1.6.0",
     "immer": "^9.0.12",
     "lodash": "^4.17.21",
-    "material-react-table": "^0.6.10",
+    "material-react-table": "^0.41.0",
     "react": "^17.0.2",
     "react-bootstrap": "^1.6.4",
     "react-bootstrap-table-next": "^4.0.3",

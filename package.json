@@ -30,7 +30,7 @@
     "@mui/material": "^5.5.1",
     "@rjsf/bootstrap-4": "^4.1.1",
     "@rjsf/core": "^4.1.1",
-    "@uiw/react-codemirror": "^4.5.1",
+    "@uiw/react-codemirror": "^4.23.6",
     "admin-lte": "^3.2.0",
     "axios": "^0.26.0",
     "customize-cra": "^1.0.0",

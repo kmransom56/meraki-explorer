@@ -17,7 +17,7 @@ RUN npm install && \
 
 
 # Stage 1, based on Nginx, to have only the compiled app, ready for production with Nginx
-FROM nginx:1.16.0-alpine
+FROM nginx:1.27.4-alpine
 
 
 # COPY build /usr/share/nginx/meraki-explorer/build

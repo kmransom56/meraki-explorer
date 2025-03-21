@@ -106,7 +106,7 @@ Meraki Explorer runs in Docker 🐳 this small guide assumes you have a running 
 - clone this repository
 
 ```
-git clone git@github.com:cyberdevnet/meraki-explorer.git
+git clone https://github.com/user/kmransom56/meraki-explorer.git
 ```
 
 - change directory into meraki-explorer
